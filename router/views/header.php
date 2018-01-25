@@ -5,6 +5,3 @@
   <title>Document</title>
 </head>
 <body>
-  this is index page
-</body>
-</html>
